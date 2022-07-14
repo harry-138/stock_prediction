@@ -5,3 +5,6 @@ for the dataset we will be using Yahoo Finance library which will give the requi
 So install yfinance library using pip install yfinance command
 As the dataset do not contain any missing value and any categorical value so we dont 
 require to manipulate our dataset.
+
+As the model linear regression is best suited for the model where r2 score is higher than the svr model.
+More Algorithms can be used for the model to predict the final outcome like random forest and decision tree. 
